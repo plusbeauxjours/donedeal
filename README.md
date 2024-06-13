@@ -21,8 +21,7 @@
 
 <span>
 <p align="center" >
-  <img src="https://github.com/plusbeauxjours/web-plusbeauxjours/blob/master/src/Images/App/Kitty_app/KittyToDo_Android.jpg
-" width="200"height="200" >
+  <img src="https://github.com/plusbeauxjours/web-plusbeauxjours/blob/master/src/Images/App/Kitty_app/KittyToDo_Android.jpg" width="200"height="200" >
   <br>
   <em>Android</em>
   </p>
