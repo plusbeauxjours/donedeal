@@ -1,4 +1,4 @@
-# KITTY TO DO - APP
+# PITTY TO DO
 
 <p align="center" >
   <img src="https://www.plusbeauxjours.com/static/media/Kitty_app_video.e93e5983.gif" >
@@ -15,18 +15,19 @@
 
 ### Portfolio Link
 
-> https://www.plusbeauxjours.com/projects/app/kitty-todo-app
+> https://www.plusbeauxjours.info/projects/app/pittytodo
 
 ### Download
 
 <span>
 <p align="center" >
-  <img src="https://www.plusbeauxjours.com/static/media/KittyToDo_Android.0e1d8e64.jpg" width="200"height="200" >
+  <img src="https://github.com/plusbeauxjours/web-plusbeauxjours/blob/master/src/Images/App/Kitty_app/KittyToDo_Android.jpg
+" width="200"height="200" >
   <br>
   <em>Android</em>
   </p>
   <p align="center" >
-  <img src="https://www.plusbeauxjours.com/static/media/KittyToDo_IOS.f1d29680.jpg" width="200"height="200" >
+  <img src="https://github.com/plusbeauxjours/web-plusbeauxjours/blob/master/src/Images/App/Kitty_app/KittyToDo_IOS.jpg" width="200"height="200" >
   <br>
   <em>IOS</em>
 </p>
