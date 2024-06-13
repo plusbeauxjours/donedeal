@@ -1,7 +1,7 @@
 # PITTY TO DO
 
 <p align="center" >
-  <img src="https://www.plusbeauxjours.com/static/media/Kitty_app_video.e93e5983.gif" >
+  <img src="https://github.com/plusbeauxjours/web-plusbeauxjours/blob/master/src/Images/App/Kitty_app/Kitty_app_video.gif" >
   <br>
 </p>
 
