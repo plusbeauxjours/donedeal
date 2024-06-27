@@ -1,4 +1,4 @@
-# PITTY TO DO
+# DONEDEAL
 
 <p align="center" >
   <img src="https://github.com/plusbeauxjours/web-plusbeauxjours/blob/master/src/Images/App/Kitty_app/Kitty_app_video.gif" >
@@ -15,7 +15,7 @@
 
 ### Portfolio Link
 
-> https://www.plusbeauxjours.info/projects/app/pittytodo
+> https://www.plusbeauxjours.info/projects/0/app/donedeal
 
 ### Download
 
